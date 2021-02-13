@@ -1,12 +1,58 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "Comp_Id": 1,
+      "ActivityName": "Badminton",
+      "CompName": "IPL2021",
+      "CompLevel": "Professional",
+      "CompDateTime": "2021-02-12T11:30:00.000Z",
+      "CompLoc": "Honor Academy, Medavakkam, Chennai",
+      "CompDist_KM": 3,
+      "Comp_Enroll_no": 5,
+      "Comp_Instr": "Intermediate - Fast Filling",
+      "Comp_F_Prize": 10000,
+      "Comp_S_Prize": 5000,
+      "Comp_T_Prize": 2500,
+      "Comp_Entry_Fee": 500
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "Comp_Id": 1,
+      "Player_Name": "Akshay",
+      "Player_Points": 200,
+      "Status": "Enrolled"
+    },
+    {
+      "Comp_Id": 1,
+      "Player_Name": "Vinodh",
+      "Player_Points": 140,
+      "Status": "Confirmed"
+    },
+    {
+      "Comp_Id": 1,
+      "Player_Name": "Raj",
+      "Player_Points": 130,
+      "Status": "Enrolled"
+    },
+    {
+      "Comp_Id": 1,
+      "Player_Name": "Krishna",
+      "Player_Points": 150,
+      "Status": "Pending"
+    },
+    {
+      "Comp_Id": 1,
+      "Player_Name": "Rama",
+      "Player_Points": 70,
+      "Status": "Enrolled"
+    },
+    {
+      "Comp_Id": 1,
+      "Player_Name": "Harshini",
+      "Player_Points": 90,
+      "Status": "Rejected"
+    }
   ],
   "profile": {
     "name": "typicode"
