@@ -2,8 +2,17 @@
 
 {
   "Post": {
+    "CompId" :1,
     "CompLoc": "Honor Academy, Medavakkam, Chennai",
- "CompDist_KM": 3
+  },
+  {
+    "CompId" :1,
+       "CompLoc": "Player Academy, Velachery, Chennai",
+},
+  {
+    "CompId" :1,
+       "CompLoc": "Badminton Academy, Medavakkam, Chennai",
+ }
   },
   "Comment": {
     "body": "string",
