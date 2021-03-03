@@ -54,21 +54,7 @@
       "Status": "Rejected"
     }
   ],
-  "todos": [
   
-    {
-    "CompId" :1,
-    "CompLoc": "Honor Academy, Medavakkam, Chennai",
-  },
-  {
-    "CompId" :1,
-       "CompLoc": "Player Academy, Velachery, Chennai",
-},
-  {
-    "CompId" :1,
-       "CompLoc": "Badminton Academy, Medavakkam, Chennai",
- }
-  ],
   "profile": {
     "name": "typicode"
   }
