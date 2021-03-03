@@ -1,0 +1,12 @@
+
+
+{
+  "Post": {
+    "CompLoc": "Honor Academy, Medavakkam, Chennai",
+ "CompDist_KM": 3
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
+}
