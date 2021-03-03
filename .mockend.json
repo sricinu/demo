@@ -1,23 +1,10 @@
 
 
 {
-  "Post": [
-  
-    {
-    "CompId" :1,
-    "CompLoc": "Honor Academy, Medavakkam, Chennai",
-  },
-  {
-    "CompId" :1,
-       "CompLoc": "Player Academy, Velachery, Chennai",
-},
-  {
-    "CompId" :1,
-       "CompLoc": "Badminton Academy, Medavakkam, Chennai",
- }
-  ],
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
